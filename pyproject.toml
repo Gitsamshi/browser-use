@@ -42,6 +42,10 @@ dependencies = [
     "mcp>=1.10.1",
     "pypdf>=5.7.0",
     "markdown-pdf==1.5",
+    "boto3>=1.39.15",
+    "gradio>=5.38.2",
+    "rich>=14.1.0",
+    "streamlit>=1.47.1",
 ]
 # google-api-core: only used for Google LLM APIs
 # pyperclip: only used for examples that use copy/paste
